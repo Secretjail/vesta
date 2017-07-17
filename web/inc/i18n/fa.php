@@ -3,7 +3,7 @@
  * 
  *Vesta Farsi/Persian language file
  * By Foad Gh (secretjail@yahoo.com / http://www.Dotserver.ir )
- * Yalda night 2015
+ * Yalda night 2015 (Monday, December 21, 2015)
  * َAnd Ham3D (hamed334@gmail.com)
  */
 $LANG['fa'] = array(
@@ -127,7 +127,7 @@ $LANG['fa'] = array(
     'Editing Package' => 'ویرایش بسته',
     'Adding IP address' => 'افزودن آدرس آی پی',
     'Editing IP Address' => 'ویرایش آدرس آی پی',
-    'Editing Backup Exclusions' => 'ویرایش استتثناءهای پشتیبان گیری',
+    'Editing Backup Exclusions' => 'ویرایش استثناءهای پشتیبان گیری',
     'Generating CSR' => 'آفریدن CSR',
     'Listing' => 'فهرست كردن',
     'Search Results' => 'نتایج جستجو',
@@ -183,7 +183,7 @@ $LANG['fa'] = array(
     'IP Addresses' => 'آدرس های آی پی',
     'Backups' => 'پشتیبان ها',
     'Backup System' => 'سیستم پشتیبان',
-    'backup exclusions' => 'استثنا های پشتیبان',
+    'backup exclusions' => 'استثناء های پشتیبان',
     'template' => 'قالب',
     'SSL Support' => 'پشتیبانی SSL',
     'SSL Home Directory' => 'پوشه خانه SSL',
@@ -193,7 +193,7 @@ $LANG['fa'] = array(
     'Proxy Support' => 'پشتیبانی پراکسی',
     'Proxy Extensions' => 'فرمت های پراکسی',
     'Web Statistics' => 'آمار های وب',
-    'Additional FTP Account' => 'FTP بیشتر',
+    'Additional FTP Account' => 'حساب FTP بیشتر',
     'Path' => 'مسیر',
     'SOA' => 'SOA',
     'TTL' => 'زمان زنده بودن',
@@ -426,7 +426,7 @@ $LANG['fa'] = array(
     '%s log records' => '%s پیشینه وقایع',
     '1 object' => 'یک شیء',
     '%s objects' => '%s شیء',
-    'no exclusions' => 'بدون استثنا',
+    'no exclusions' => 'بدون استثناء',
     '1 rule' => '1 قانون',
     '%s rules' => '%s قانون',
     'There are no currently banned IP' => 'هم اكنون آی پی مسدود شده ای وجود ندارد',
